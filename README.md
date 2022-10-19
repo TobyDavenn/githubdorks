@@ -1,10 +1,10 @@
-okkta.com password NOT help.okta NOT developer.okta 
-service-now password
-jfrog.io password
-onelogin.com password
-atlassian.net password
-slack.com password
-slack.com token
-zendesk.com password
-oauth token
-auth0 password
+okkta.com password NOT help.okta NOT developer.okta <br>
+service-now password <br>
+jfrog.io password <br>
+onelogin.com password <br>
+atlassian.net password <br>
+slack.com password <br> 
+slack.com token <br>
+zendesk.com password <br>
+oauth token <br>
+auth0 password <br>
